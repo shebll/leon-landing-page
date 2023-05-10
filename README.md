@@ -1,7 +1,6 @@
-# template-one-
-template one using html and css by shebl 1/8/2022
+# modern landing page -
+landing page using html and css  (by shebll)
 
-## project notes
-  1 dimo https://shebll.github.io/template-one-/
-  2
-  3
+Dimo-> https://shebll.github.io/template-one-/
+
+![Uploading screencapture-shebll-github-io-template-one-2023-05-10-16_13_14.png…]()
