@@ -1,7 +1,7 @@
 # modern landing page -
 landing page using html and css  (by shebll)
 
-Dimo-> https://shebll.github.io/template-one-/
+Dimo-> https://shebll.github.io/leon-landing-page/
 
 
 ScreenShot of website
